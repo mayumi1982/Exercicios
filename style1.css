@@ -1,0 +1,18 @@
+h1{
+font-weight: bold;
+color: black;
+text-align: center;
+}
+
+.p1{
+ color: blueviolet;
+ text-align: justify;
+ width: 50%
+}
+
+.p2{
+    color: darkmagenta;
+    text-decoration: underline;
+    text-align: justify;
+    width: 50%
+}

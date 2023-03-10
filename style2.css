@@ -1,0 +1,55 @@
+body{
+    background-color:darksalmon; /* Cor de Fundo*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+ /* Fonte*/
+text-decoration: underline;
+color: blue; /* Cor azul do titulo*/
+font-weight: bold; /* Titulo em negrito*/
+text-align: center;
+}
+
+.quadrado{
+    border-width: 5px;
+    border-style:ridge;
+    border-color:red;
+    color: red;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    width: 1000px;
+
+    }
+
+.div{
+    width: 25px;
+    text-align: center;
+    margin: 40px auto;
+    height: 30px;
+}    
+
+.huhu{
+    width: 300px;
+    height: 250px;
+    padding: 5px;
+    float: left;
+    margin: 0px 10px 10px 0;
+    display: block;
+    position: absolute;
+    /*top:20%;*/
+    z-index: -1;
+    -webkit-box-shadow: 0px 0px 8px 2px #000000;
+    -moz-box-shadow: 0px 0px 8px 2px #000000;
+    box-shadow: 0px 0px 8px 2px #000000;
+    transform: skewY(200deg);
+    transform: rotate(-360deg);
+}
+
+.l1{
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+} 
+
